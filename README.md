@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaComputer728
 - 👀 I’m interested in game development, AI, anti-cheat and many more
-- 🌱 I’m currently working on game engine
+- 🌱 I’m currently working on a game engine
 - 💞️ I’m looking to collaborate on anti-cheat or cheating software
 
 
